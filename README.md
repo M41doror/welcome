@@ -55,27 +55,3 @@
 <!-- DEVTO_LIST:END -->
 
 ---
-
-## 📈 GitHub Stats  ![Profile views](https://komarev.com/ghpvc/?username=vumdao&color=blueviolet)
-![M3lmoth GitHub stats](https://github-readme-stats.vercel.app/api?username=vumdao&theme=blue-green&show_icons=true&line_height=27&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vumdao&theme=blue-green&langs_count=3)
-![M3lmoth's github streak](https://github-readme-streak-stats.herokuapp.com/?user=vumdao&theme=blue-green)
-
-
----
-
-<a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/57112545/111080199-5fa60f00-8523-11eb-85ea-5262e89445b0.jpg">
-    <img align="left" alt="working" src="https://user-images.githubusercontent.com/57112545/111080199-5fa60f00-8523-11eb-85ea-5262e89445b0.jpg" width="350" height="350" style="max-width:100%;">
-    <img align='right' src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" height="300" width="320">
-</a>
-
-<br/>
-
-<div align="center">
-    <a href="https://www.buymeacoffee.com/deladouceur" target="_blank" style="display: inline-block;">
-        <img
-            src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
-            align="center"
-        />
-    </a></div>
-<br />
