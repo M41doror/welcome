@@ -36,7 +36,7 @@
 
 ---
 
-## :octocat: [AMA - Ask Me Anything](https://github.com/vumdao/vumdao/discussions/categories/ama-ask-me-anything)
+## :octocat: [Ask Me Anything](https://github.com/vumdao/vumdao/discussions/categories/ama-ask-me-anything)
 
 ---
 
