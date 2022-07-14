@@ -36,11 +36,7 @@
 
 ---
 
-## :octocat: [Ask Me Anything](https://github.com/vumdao/vumdao/discussions/categories/ama-ask-me-anything)
-
----
-
-## Latest published on [Dev.to](https://dev.to/vumdao)
+## Latest published on [Dev.to]([https://dev.to/vumdao](https://dev.to/m31moth))
 <!-- DEVTO_LIST:START -->
 - [Troubleshoot Karpenter Node](https://dev.to/aws-builders/troubleshoot-karpenter-node-44p0)
 - [Karpenter with AWS Node Termination Handler](https://dev.to/aws-builders/karpenter-with-aws-node-termination-handler-149d)
